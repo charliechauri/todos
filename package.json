@@ -1,0 +1,26 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charliechauri/todos.git"
+  },
+  "author": "Carlos Echauri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charliechauri/todos/issues"
+  },
+  "homepage": "https://github.com/charliechauri/todos#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0"
+  }
+}
